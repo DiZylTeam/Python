@@ -155,5 +155,5 @@ text = text[2:9] + text[-5] + text[:2] # ...
 
 
 # git remote add origin https://github.com/DiZylTeam/Python.git
-# >> git branch -M main
-# >> git push -u origin main
+# git branch -M main
+# git push -u origin main
